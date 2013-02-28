@@ -4,7 +4,7 @@
   <title><![CDATA[Gerry's first Octopress Blog]]></title>
   <link href="http://ghavinga.github.com/atom.xml" rel="self"/>
   <link href="http://ghavinga.github.com/"/>
-  <updated>2013-02-28T12:13:52+01:00</updated>
+  <updated>2013-02-28T15:21:38+01:00</updated>
   <id>http://ghavinga.github.com/</id>
   <author>
     <name><![CDATA[Gerry Havinga]]></name>
@@ -24,8 +24,8 @@
 
 <p>Apparently this can be all in markdown format. Normal paragraphs are separated with an empty line, simple markup language (not unlike Dokuwiki) is used. I am starting to love this stuff.</p>
 
-<blockquote><p>code snippets
-preceded with a &#8220;greater than sign&#8221;</p></blockquote>
+<blockquote><p> code snippets
+ preceded with a &#8220;greater than sign&#8221;</p></blockquote>
 
 <ul>
 <li>Unnumbered lists</li>
@@ -33,7 +33,7 @@ preceded with a &#8220;greater than sign&#8221;</p></blockquote>
 <li>or with either a &#8220;-&#8221;</li>
 <li><p>or a &#8220;+&#8221; sign</p></li>
 <li><p>Numbered list</p></li>
-<li>just number them &#8230;. ;-)</li>
+<li>just number them &#8230;.</li>
 <li>as easy as cake</li>
 </ul>
 
