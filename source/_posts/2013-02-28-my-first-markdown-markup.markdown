@@ -51,4 +51,4 @@ This is good stuff, you could use link definitions at the end of a paragraph or 
 [Github][github]
 
 - - -
-Nice place to fool around with markdown is: [http://daringfireball.net/projects/markdown/dingus] can render the code you type into the form directly.
+Nice place to fool around with markdown is: <http://daringfireball.net/projects/markdown/dingus> can render the code you type into the form directly.
