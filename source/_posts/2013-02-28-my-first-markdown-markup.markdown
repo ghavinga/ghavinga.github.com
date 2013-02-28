@@ -39,5 +39,11 @@ An example of a reference style link:
 
 This refers to:
 [1]: http://www.swiftstack.com/ "Swiftstack's corporate web site."
+(which you can't see of course ......)
+
+This is good stuff, you could use link definitions at the end of a paragraph or even the document and refer to it indirectly. So you keep them all in one place:
+
+[google]: http://www.google.com/ "Google's global search site."
+[github]: http://www.github.com/ "Github fun."
 
 
