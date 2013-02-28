@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://ghavinga.github.com
-title: My Octopress Blog
+title: Gerry's first Octopress Blog
 subtitle: A blogging framework for hackers.
-author: Your Name
+author: Gerry Havinga
 simple_search: http://google.com/search
-description:
+description: Getting myself up and running on github blogging ;-)
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
