@@ -31,4 +31,13 @@ To put links on the page, just down like this:
 
 Text you want to make clickable, this is a good introduction yo markdown syntax: [Intro to markdown syntax](http://daringfireball.net/projects/markdown/basics "Even with a title")
 
+- - - 
+Should produce an HR   
+
+An example of a reference style link:
+[Reference to Swiftstack][1] 
+
+This refers to:
+[1]: http://www.swiftstack.com/ "Swiftstack's corporate web site."
+
 
