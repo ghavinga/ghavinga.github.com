@@ -17,9 +17,15 @@ Apparently this can be all in markdown format. Normal paragraphs are separated w
 
 * Unnumbered lists
 * Preceded with an asterisk
-
-- Numbered list, 
-- precedes with either a "-"
+- or with either a "-"
 - or a "+" sign
+
+1. Numbered list 
+2. just number them .... ;-)
+3. as easy as cake
+
+To put links on the page, just down like this:
+
+Text you want to make clickable, this is a good introduction yo markdown syntax: [Intro to markdown syntax](http://daringfireball.net/projects/markdown/basics "Even with a title")
 
 
