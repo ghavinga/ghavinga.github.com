@@ -4,7 +4,7 @@
   <title><![CDATA[Gerry's first Octopress Blog]]></title>
   <link href="http://ghavinga.github.com/atom.xml" rel="self"/>
   <link href="http://ghavinga.github.com/"/>
-  <updated>2013-02-28T15:30:17+01:00</updated>
+  <updated>2013-02-28T15:35:33+01:00</updated>
   <id>http://ghavinga.github.com/</id>
   <author>
     <name><![CDATA[Gerry Havinga]]></name>
@@ -55,7 +55,10 @@
 <p>An example of a reference style link:
 <a href="http://www.swiftstack.com/" title="Swiftstack's corporate web site.">Reference to Swiftstack</a></p>
 
-<p>This refers to:</p>
+<p>This refers to:
+(which you can&#8217;t see of course &#8230;&#8230;)</p>
+
+<p>This is good stuff, you could use link definitions at the end of a paragraph or even the document and refer to it indirectly. So you keep them all in one place:</p>
 ]]></content>
   </entry>
   
