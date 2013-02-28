@@ -12,17 +12,19 @@ categories:
 
 Apparently this can be all in markdown format. Normal paragraphs are separated with an empty line, simple markup language (not unlike Dokuwiki) is used. I am starting to love this stuff.
 
->code snippets 
->preceded with a "greater than sign"
+>  code snippets 
+>  preceded with a "greater than sign"
 
-*   Unnumbered lists
-*   Preceded with an asterisk
+-   Unnumbered lists
+-   Preceded with an asterisk
 -   or with either a "-"
 -   or a "+" sign
 
+
 1.   Numbered list 
-2.   just number them .... ;-)
+2.   just number them .... 
 3.   as easy as cake
+
 
 To put links on the page, just down like this:
 
