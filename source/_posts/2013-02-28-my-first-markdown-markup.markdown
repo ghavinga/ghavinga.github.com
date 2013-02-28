@@ -26,6 +26,7 @@ Perhaps there should be an paragraph in between .....
 2.   just number them .... 
 3.   as easy as cake
 
+### Links
 
 To put links on the page, just down like this:
 
@@ -46,4 +47,6 @@ This is good stuff, you could use link definitions at the end of a paragraph or 
 [google]: http://www.google.com/ "Google's global search site."
 [github]: http://www.github.com/ "Github fun."
 
+[Google's site][google]
+[Github][github]
 
