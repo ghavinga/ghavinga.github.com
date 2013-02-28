@@ -4,7 +4,7 @@
   <title><![CDATA[Gerry's first Octopress Blog]]></title>
   <link href="http://ghavinga.github.com/atom.xml" rel="self"/>
   <link href="http://ghavinga.github.com/"/>
-  <updated>2013-02-28T11:52:50+01:00</updated>
+  <updated>2013-02-28T12:04:07+01:00</updated>
   <id>http://ghavinga.github.com/</id>
   <author>
     <name><![CDATA[Gerry Havinga]]></name>
@@ -12,6 +12,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[My first markdown markup.]]></title>
+    <link href="http://ghavinga.github.com/blog/2013/02/28/my-first-markdown-markup/"/>
+    <updated>2013-02-28T11:56:00+01:00</updated>
+    <id>http://ghavinga.github.com/blog/2013/02/28/my-first-markdown-markup</id>
+    <content type="html"><![CDATA[<h2>Gerry&#8217;s first experiment using markdown</h2>
+
+<h3>Introduction</h3>
+
+<p>Apparently this can be all in markdown format. Normal paragraphs are separated with an empty line, simple markup language (not unlike Dokuwiki) is used. I am starting to love this stuff.</p>
+
+<blockquote><p>code snippets
+preceded with a &#8220;greater than sign&#8221;</p></blockquote>
+
+<ul>
+<li>Unnumbered lists</li>
+<li><p>Preceded with an asterisk</p></li>
+<li><p>Numbered list,</p></li>
+<li>precedes with either a &#8220;-&#8221;</li>
+<li>or a &#8220;+&#8221; sign</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[New Post once again]]></title>
