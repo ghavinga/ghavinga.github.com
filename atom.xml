@@ -4,7 +4,7 @@
   <title><![CDATA[Gerry's first Octopress Blog]]></title>
   <link href="http://ghavinga.github.com/atom.xml" rel="self"/>
   <link href="http://ghavinga.github.com/"/>
-  <updated>2013-02-28T17:29:12+01:00</updated>
+  <updated>2013-02-28T17:30:54+01:00</updated>
   <id>http://ghavinga.github.com/</id>
   <author>
     <name><![CDATA[Gerry Havinga]]></name>
@@ -67,7 +67,7 @@
 
 <hr />
 
-<p>Nice place to fool around with markdown is: [http://daringfireball.net/projects/markdown/dingus] can render the code you type into the form directly.</p>
+<p>Nice place to fool around with markdown is: <a href="http://daringfireball.net/projects/markdown/dingus">http://daringfireball.net/projects/markdown/dingus</a> can render the code you type into the form directly.</p>
 ]]></content>
   </entry>
   
