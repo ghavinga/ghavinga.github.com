@@ -20,6 +20,7 @@ Apparently this can be all in markdown format. Normal paragraphs are separated w
 -   or with either a "-"
 -   or a "+" sign
 
+Perhaps there should be an paragraph in between .....
 
 1.   Numbered list 
 2.   just number them .... 
