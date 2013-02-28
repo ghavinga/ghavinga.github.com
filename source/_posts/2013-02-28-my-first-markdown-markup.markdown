@@ -15,14 +15,14 @@ Apparently this can be all in markdown format. Normal paragraphs are separated w
 >code snippets 
 >preceded with a "greater than sign"
 
-* Unnumbered lists
-* Preceded with an asterisk
-- or with either a "-"
-- or a "+" sign
+*   Unnumbered lists
+*   Preceded with an asterisk
+-   or with either a "-"
+-   or a "+" sign
 
-1. Numbered list 
-2. just number them .... ;-)
-3. as easy as cake
+1.   Numbered list 
+2.   just number them .... ;-)
+3.   as easy as cake
 
 To put links on the page, just down like this:
 
