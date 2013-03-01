@@ -12,6 +12,11 @@ categories:
 
 Apparently this can be all in markdown format. Normal paragraphs are separated with an empty line, simple markup language (not unlike Dokuwiki) is used. I am starting to love this stuff.
 
+
+Perhaps should put en extra HR in:
+
+- - - 
+
 >  code snippets 
 >  preceded with a "greater than sign"
 
