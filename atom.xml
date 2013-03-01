@@ -4,7 +4,7 @@
   <title><![CDATA[Gerry's first Octopress Blog]]></title>
   <link href="http://ghavinga.github.com/atom.xml" rel="self"/>
   <link href="http://ghavinga.github.com/"/>
-  <updated>2013-02-28T17:30:54+01:00</updated>
+  <updated>2013-03-01T16:10:58+01:00</updated>
   <id>http://ghavinga.github.com/</id>
   <author>
     <name><![CDATA[Gerry Havinga]]></name>
@@ -23,6 +23,10 @@
 <h3>Introduction</h3>
 
 <p>Apparently this can be all in markdown format. Normal paragraphs are separated with an empty line, simple markup language (not unlike Dokuwiki) is used. I am starting to love this stuff.</p>
+
+<p>Perhaps should put en extra HR in:</p>
+
+<hr />
 
 <blockquote><p> code snippets
  preceded with a &#8220;greater than sign&#8221;</p></blockquote>
